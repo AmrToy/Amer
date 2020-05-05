@@ -167,5 +167,5 @@ elif [ "$download" -eq "2"  ]; then
  sleep 2
  python2 Virus4.py
 else :
- bash Amer.sh
+ bash AmrToy.sh
 fi
